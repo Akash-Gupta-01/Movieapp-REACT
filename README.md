@@ -1,0 +1,1 @@
+This is a Simple Movie App created using React Javascript.
